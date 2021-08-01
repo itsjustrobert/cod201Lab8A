@@ -1,0 +1,46 @@
+
+/* --------------------------------------------------------------global------------------------------------------------------------------------------- */
+
+*{
+    /* set font size to 62.5% because  */
+font-size:62.5%;
+margin:1rem;
+padding:1rem;
+font-family: 'Orbitron', sans-serif;
+
+}
+
+ a{
+    font-size:2.4rem;
+    text-decoration: none;
+}
+a:hover{
+    background-color: gold;
+}
+
+/* ----------x---------------------------------------------------global-----------------------------------x------------------------------------------- */
+
+.link{
+    display:inline;
+    position:relative;
+    left:46rem;
+    bottom:10rem;
+   
+}
+#nav{
+    background-color:slategray;
+    color:white;
+    height:8rem;
+justify-content: unset;
+
+}
+#section{
+    display:grid;
+    width:25%;
+    font-size:3rem;
+    border:.1rem solid yellow;
+}
+
+
+
+
